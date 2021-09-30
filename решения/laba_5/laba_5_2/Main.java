@@ -1,5 +1,6 @@
 package laba_5.laba_5_2;
 
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args)
@@ -12,7 +13,8 @@ public class Main {
         //CVS;SCCS;RCS;rcs;.*;*.jpx;*.jpx.local;*.apf;*.oif;Servlet.library;Thumbs.db;.svn;
         //*.md; *.txt; *.rst; *.adoc; *.jpg
 
-        Fr f = new Fr(args[0]);
+        Scanner tr = new Scanner(System.in);
+        Fr f = new Fr(tr.next());
         f.setVisible(true);
         System.out.println(1);
     }

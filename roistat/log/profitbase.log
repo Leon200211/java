@@ -1,0 +1,37 @@
+
+[Webhook profitbase (2023-03-06 08:35:00)]
+Array
+(
+    [source] => 
+    [property] => Array
+        (
+            [id] => 11381283
+            [number] => 148
+            [rooms_amount] => 2
+            [price] => 9817984
+            [area] => 56.15
+            [house] => Планерный квартал — Корп. 3
+            [house_id] => 92909
+            [external_id] => 
+        )
+
+    [customer] => Array
+        (
+            [name] => Я тест один дыва
+            [phone] => +79990000024
+            [email] => rorrrrot@test.ru
+        )
+
+    [comment] => sdf
+    [tracking] => Array
+        (
+            [roistat] => 145995
+        )
+
+    [utm] => Array
+        (
+        )
+
+)
+
+##########################################
